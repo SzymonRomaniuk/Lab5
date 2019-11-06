@@ -12,8 +12,8 @@ This project is a template for building microservices with Flask.
 .. image:: https://travis-ci.org/SzymonRomaniuk/Lab5.svg?branch=master
    :target: https://travis-ci.org/SzymonRomaniuk/Lab5
 
-.. image:: https://readthedocs.org/projects/Lab5/badge/?version=latest
-   :target: https://Lab5.readthedocs.io
+.. image:: https://readthedocs.org/projects/lab5/badge/?version=latest
+   :target: https://lab5.readthedocs.io
 
 
 
